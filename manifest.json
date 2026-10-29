@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "extaas-connect-account",
+  "api_id": "extaas-connect",
+  "integration_id": "io.extaas.connect",
+  "kind": "integration",
+  "version": "1.0.0",
+  "name": "Extaas Connect",
+  "description": "Link this Workspace installation to your Extaas account and manage services in Iseteenindus.",
+  "icon": "ui/icon.svg",
+  "workspace_ui": "extaas-connect-account-v1",
+  "homepage": "https://extaas.com/@/connect",
+  "environment": [],
+  "actions": [],
+  "cron": [],
+  "runtime": {
+    "type": "none"
+  }
+}
